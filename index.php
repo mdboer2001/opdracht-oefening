@@ -10,4 +10,4 @@ yeet hasan was here
 >>>>>>> 433df0e5424eaeb6692b774cf9d0a04b6f7749c2
 yeet hasan went back to turkij
 
-allah akbar boom mo explodes guthub
+allah akbar boom mo explodes github
