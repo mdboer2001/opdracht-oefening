@@ -3,7 +3,7 @@
  <head>
  </head>
  <body>
-  <form class="webPoll" method="post" action="test.php">
+  <form class="webPoll" method="post" action="">
     <h4>What question would you like to ask?</h4>
     <ul>
         <li>Answer Here</li>
