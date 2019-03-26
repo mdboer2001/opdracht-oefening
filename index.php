@@ -1,16 +1,14 @@
-<<<<<<< HEAD
+!DOCTYPE html
+<html>
+ <head>
+ </head>
  <body>
-<h1>TURKIJE NUMMER 1</h1>
-<form>
-  First name:<br>
-  <input type="text" name="firstname"><br>
-  Last name:<br>
-  <input type="text" name="lastname">
+  <form class="webPoll" method="post" action="test.php">
+    <h4>What question would you like to ask?</h4>
+    <ul>
+        <li>Answer Here</li>
+        <li>Another Answer Here</li>
+    </ul>
 </form>
-=======
-yeet hasan was here
->>>>>>> 433df0e5424eaeb6692b774cf9d0a04b6f7749c2
-yeet hasan went back to turkij
-
-allah akbar boom mo explodes github
-</body>
+ </body>
+</html>
