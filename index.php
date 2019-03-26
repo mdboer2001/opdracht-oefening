@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+ <body>
+<h1>TURKIJE NUMMER 1</h1>
 <form>
   First name:<br>
   <input type="text" name="firstname"><br>
@@ -11,3 +13,4 @@ yeet hasan was here
 yeet hasan went back to turkij
 
 allah akbar boom mo explodes github
+</body>
